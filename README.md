@@ -6,4 +6,7 @@ In this repo we are basically working with multi labelled emotion dataset for se
 The procedure shall involve data cleaning, data preprocessing, vectorization and modeling.
 
 
-The first step involves correction of misspelled wods using a dataset that has most commonly misspelled words for reference.
+The first step involves correction of misspelled words using a dataset that has most commonly misspelled words for reference.
+
+The second step involves expanding Contractions like isn't to is not.
+
