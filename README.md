@@ -10,3 +10,4 @@ The first step involves correction of misspelled words using a dataset that has 
 
 The second step involves expanding Contractions like isn't to is not.
 
+The third step involves removing usernames and twitter handle mentions.
